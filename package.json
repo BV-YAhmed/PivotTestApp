@@ -7,6 +7,6 @@
 		"@types/flexmonster": "2.7.1"
 	},
 	"dependencies": {
-		"flexmonster": "2.6.14"
+		"flexmonster": "^2.7.3"
 	}
 }
