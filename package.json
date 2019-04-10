@@ -1,0 +1,12 @@
+{
+	"name": "pivottestapp",
+	"version": "1.0.0",
+	"devDependencies": {
+		"requirejs": "2.3.5",
+		"typescript": "2.7.2",
+		"@types/flexmonster": "2.7.1"
+	},
+	"dependencies": {
+		"flexmonster": "2.6.14"
+	}
+}

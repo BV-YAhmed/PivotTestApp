@@ -1,0 +1,16 @@
+﻿{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"module": "amd",
+		"target": "es5",
+		"sourceMap": true,
+		"noEmitOnError": true 
+	},
+	"include": [
+		"scripts/*"
+	],
+	"exclude": [
+		"node_modules/**/*"
+	]
+
+}

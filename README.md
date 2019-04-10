@@ -1,0 +1,1 @@
+## Sample project integrating Flexmonster with Typescript and RequireJS
